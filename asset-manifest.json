@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Exam/static/css/main.41215f20.css",
-    "main.js": "/Exam/static/js/main.ccac80a6.js",
-    "static/js/453.b21a91d2.chunk.js": "/Exam/static/js/453.b21a91d2.chunk.js",
-    "index.html": "/Exam/index.html",
-    "main.41215f20.css.map": "/Exam/static/css/main.41215f20.css.map",
-    "main.ccac80a6.js.map": "/Exam/static/js/main.ccac80a6.js.map",
-    "453.b21a91d2.chunk.js.map": "/Exam/static/js/453.b21a91d2.chunk.js.map"
+    "main.css": "/ExamApp/static/css/main.41215f20.css",
+    "main.js": "/ExamApp/static/js/main.cc344806.js",
+    "static/js/453.b21a91d2.chunk.js": "/ExamApp/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/ExamApp/index.html",
+    "main.41215f20.css.map": "/ExamApp/static/css/main.41215f20.css.map",
+    "main.cc344806.js.map": "/ExamApp/static/js/main.cc344806.js.map",
+    "453.b21a91d2.chunk.js.map": "/ExamApp/static/js/453.b21a91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41215f20.css",
-    "static/js/main.ccac80a6.js"
+    "static/js/main.cc344806.js"
   ]
 }
