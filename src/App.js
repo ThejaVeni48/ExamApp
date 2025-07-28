@@ -1,7 +1,7 @@
 import "./App.css";
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter, Route, Navigate, Routes, } from "react-router-dom";
+import { BrowserRouter, Route, Navigate, Routes, HashRouter, } from "react-router-dom";
 import Login from "./login";
 import AdminDashboard from "./Admin/AdminDashboard";
 import StudentDashBoard from "./Student/StudentDashBoard";
@@ -13,7 +13,7 @@ import CreateQuestions from "./Admin/CreateQuestions";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Login />} />
 
@@ -30,7 +30,7 @@ function App() {
 
              
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
